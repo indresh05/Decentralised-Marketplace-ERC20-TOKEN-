@@ -104,7 +104,7 @@ VITE_PINATA_SECRET_KEY=your_secret_key
 Open 👉 https://remix.ethereum.org  
 
 Deploy ERC20 token and marketplace contract, then copy their addresses.
-
+CONTRACT_ADDRESS =
 ---
 
 ## 6️⃣ Configure Contract in Frontend
